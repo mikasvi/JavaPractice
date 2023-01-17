@@ -1,0 +1,5 @@
+Piste Point2D.Double[-2.0, 2.0] on polygonin ulkopuolella.
+Piste Point2D.Double[3.0, 3.0] on polygonin reunalla.
+Piste Point2D.Double[4.0, 4.0] on polygonin reunalla.
+Piste Point2D.Double[6.0, -6.0] on polygonin ulkopuolella.
+Piste Point2D.Double[0.0, 0.0] on polygonin reunalla.
